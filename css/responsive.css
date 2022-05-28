@@ -1,0 +1,536 @@
+@media(max-width: 1399px){
+    .testimonial h1 {
+        font-size: 35px;
+        letter-spacing: 0px;
+    }
+    .testimonial p {
+        font-size: 24px;
+        line-height: 44px;
+       
+    }
+    .who_we_are {
+        margin-top: 80px;
+    }
+    .who_we_are_1 h1 {
+        font-size: 47px;
+        margin-top: 22px;
+    }
+    .who_we_are_1 h4 {
+        margin-bottom: 15px;
+        font-size: 18px;
+    }
+    .who_we_are_1 img {
+        margin-top: 20px;
+        width: 167px;
+        margin-bottom: 35px;
+    }
+    .who_we_are_2 img {
+        width: 611px;
+        height: 370px;
+        margin-left: -43px;
+    }
+    .product_box img {
+        max-width: 260px;
+    }
+    .explore_image img {
+        height: 356px;
+       
+    }
+    .our1 img {
+        width: 628px;
+        height: 544px;
+        margin-left: 0px;
+       
+    }
+    .our2 h1 {
+        margin-top: 175px;
+        font-size: 47px;
+    }
+    .our2 h4 {
+        font-size: 17px;
+        margin-bottom: 18px;
+    }
+    .our2 img:not(.pata) {
+        width: 361px;
+    }
+    .our2 p {
+        font-size: 15px;
+        margin-bottom: 28px;
+    }
+    .snacking h1 {
+        font-size: 43px;
+        margin-bottom: 10px;
+        margin-top: -8px;
+    }
+    .snacking h4 {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 26px;
+    }
+    .first_a_tag {
+        width: 527px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .first_a_tag a {
+        font-size: 12px;
+        padding: 13px 14px;
+    }
+    .snacking p {
+        margin-top: 19px;        
+        margin-bottom: 37px;
+    } 
+    .sec_a_tag img {
+        max-width: 622px;
+        margin-top: 0px;
+        margin-left: 46px;
+    }
+    .store_section h1 {
+        font-size: 50px;
+        margin-bottom: 16px;
+    }
+    .store_section p {
+        font-size: 16px;
+        margin-bottom: 34px;
+    }
+
+}
+@media(max-width: 1199px){
+    .hero_banner_section h1 {
+        font-size: 47px;
+    }
+    .top-header-section h3 {
+        font-size: 19px;
+        padding-top: 17px;
+        margin-bottom: 1px;
+    }
+    .top-header-section p {
+        font-size: 15px;
+        padding-top: 22px;
+        padding-bottom: 17px;
+    }
+    .image_1 {
+        height: 30px;
+    }
+    .image_2 {
+        height: 30px;
+    }
+    .collapse a {
+        font-size: 17px;
+        letter-spacing: 1px;
+        margin-left: 20px;
+    }
+    .logo_section {
+        margin-top: -34px;
+    }
+    .logo_section img {
+        width: 120px;
+    }
+    .explore_button a {
+        font-size: 36px;
+        line-height: 43px;
+    }
+    .explore_button img {
+        width: 45px!important;
+    }
+    .our1 img {
+        width: 535px;
+        height: 414px;
+        margin-left: 0px;
+    }
+    .pata {
+        height: 203px;
+    }
+    .our2 h1 {
+        margin-top: 119px;
+        font-size: 41px;
+    }
+    .our2 {
+        padding-left: 108px;
+    }
+    .our2 p {
+        font-size: 14px;
+    }
+    .snacking {
+        margin-top: 28px;
+    }
+    .snacking h1 {
+        font-size: 40px;
+        margin-top: 17px;
+    }
+    .sec_a_tag img {
+        max-width: 607px;
+    
+        margin-left: 16px;
+    }
+    .join_section h1 {
+        font-size: 45px;
+        margin-top: 15px;
+    }
+    .all_a a {
+        font-size: 12px;
+        margin-right: 50px;
+        margin-top: 1px;
+    }
+    .icon1 {
+        margin-left: 423px;
+    }
+
+}
+@media(max-width: 991px){
+    .hero_banner_section h1 {
+        font-size: 40px;
+    }
+    .product_box img {
+        max-width: 210px;
+    }
+    .navbar-nav {
+        flex-direction: column;
+        align-items: end;
+    }
+    .nav-link {
+        display: inline-block;
+    }
+    .btn-custom {
+      
+        margin-left: 90%;
+      
+    }
+    .hero_banner_section {
+        margin-top: 50px;
+    }
+    .explore_image img {
+        height: 312px;
+    }
+    .who_we_are_1 h1 {
+        font-size: 43px;
+        margin-top: 0px;
+    }
+    .px-5 {
+        padding-right: 5rem!important;
+        padding-left: 0rem!important;
+    }
+    .hero_banner_section {
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+    .our2 p {
+        font-size: 14px;
+        width: 147%;
+    }
+    .our2 {
+        padding-left: 106px;
+    }
+    .our1 img {
+        width: 478px;
+        height: 406px;
+        margin-left: -34px;
+    }
+    .our2 h1 {
+        margin-top: 99px;
+        font-size: 33px;
+    }
+    .our2 h4 {
+        font-size: 13px;
+        margin-bottom: 18px;
+    }
+    .first_a_tag {
+        width: 427px;
+    }
+    .snacking h4 {
+        font-size: 12px;
+       
+    }
+    .all_a a {
+        font-size: 11px;
+        margin-right: 25px;
+        margin-top: 0px;
+    }
+    .icon1 {
+        margin-left: 272px;
+    }
+    .sec_a_tag img {
+        max-width: 491px;
+        margin-left: -6px;
+        object-fit: cover;
+        overflow: hidden;
+        margin-top: 25px;
+    }
+    .store_section h1 {
+        font-size: 46px;
+        margin-bottom: 14px;
+    }
+    .join_section img {
+        height: 396px;
+        margin-left: 39px;
+        width: 560px;
+    }
+
+}
+@media(max-width: 767px){
+
+    .product_box img {
+        max-width: 174px;
+    }
+    .explore_button a {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .explore_image img {
+        height: 286px;
+    }
+    .who_we_are_1 h1 {
+        font-size: 35px;
+        
+    }
+    .who_we_are_1 p {
+        font-size: 13px;
+    }
+    .who_we_are_1 h4 {
+        margin-bottom: 14px;
+        font-size: 15px;
+    }
+    .who_we_are_2 img {
+        width: 388px;
+        padding: 0;
+        height: 283px;
+        margin-left: 2px;
+    }
+    .px-5 {
+        padding-right: 0rem!important;
+        padding-left: 0rem!important;
+    }
+    .our1 img {
+        width: 385px;
+        height: 373px;
+        margin-left: -35px;
+    }
+    .our2 h1 {
+        margin-top: 60px;
+        font-size: 32px;
+    }
+    .our2 a {
+    
+        padding: 10px 11px;
+        margin-top: 21px;
+    }
+    .our2 img:not(.pata) {
+        width: 238px;
+    }
+    .first_a_tag {
+        width: 297px;
+    }
+    .snacking h1 {
+        font-size: 28px;
+        margin-top: 17px;
+    }
+    .snacking h4 {
+        font-size: 13px;
+    }
+    .sec_a_tag img {
+        max-width: 376px;
+        margin-left: 38px;
+       
+        margin-top: 121px;
+    }
+    .store_section h1 {
+        font-size: 34px;
+        margin-bottom: 12px;
+    }
+    .first_a_tag {
+        
+        margin-bottom: 10px;
+    }
+    .store_section h1 {
+        font-size: 34px;
+        margin-bottom: 12px;
+    }
+    .px-5 {
+        padding-right: 4rem!important;
+        padding-left: 0rem!important;
+    }
+    .header_section {
+        background-image: url(../images/bg.jpg);
+        min-height: 70vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 0 13px;
+    }
+    .first_join {
+        margin-top: 12px;
+    }
+    .join_section h1 {
+        font-size: 38px;
+        margin-top: 24px;
+    }
+    .logo {
+      
+      
+        margin-left: -60px;
+    }
+    .mdl_section {
+       
+        padding-left: 38px;
+    }
+    .all_a a {
+        font-size: 11px;
+        margin-right: 14px;
+        margin-top: 0px;
+        margin-left: 10px;
+    }
+    .mdl_section p {
+        font-size: 9px;
+     
+    }
+    .icon1 {
+        margin-left: 160px;
+    }
+
+}
+@media(max-width: 575px){
+
+    .top-header-section h3 {
+        font-size: 14px;
+    }
+    .top-header-section p {
+        font-size: 11px;
+        padding-top: 18px;
+        padding-bottom: 11px;
+    }
+    .header_section {
+        background-image: url(../images/bg.jpg);
+        min-height: 70vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+        object-fit: cover;
+        overflow: hidden;
+    }
+    .hero_banner_section h1 {
+        font-size: 31px;
+        margin-top: 17px;
+        margin-left: 20px;
+    }
+    .hero_banner_section p {
+    
+        margin-left: 20px;
+    }
+    .hero_banner_section .btn-manual {
+        padding: 6px 12px;
+        font-size: 17px;
+        margin-left: 20px;
+    }
+    .navbar-nav{
+        flex-direction: column;
+        align-items: flex-end;
+    }
+    .nav-link{
+        display: inline-block;
+    }
+    .btn-custom {
+      
+        margin-left: 80%;
+    }
+    .collapse a:hover {
+        padding: 8px;
+        color: #fff;
+    }
+    .explore_image img {
+        height: 278px;
+    }
+    .who_we_are_1 h1 {
+        font-size: 45px;
+        margin-top: -9px;
+    }
+    .who_we_are {
+        margin-top: 49px;
+        text-align: center;
+    
+    }
+    .who_we_are_1 h4 {
+        margin-bottom: 12px;
+        font-size: 17px;
+    }
+    .who_we_are_1 img {
+        width: 176px;
+        margin: auto;
+        margin-bottom: 24px;
+    }
+    .who_we_are_1 {
+        margin-bottom: 47px;
+        padding: 0;
+    }
+    .who_we_are_2 img {
+        width: 565px;
+        height: 322px;
+        margin-left: -142px;
+        padding: 0;
+        margin-bottom: 2px;
+    }
+    .our1 img {
+        width: 497px;
+        height: 382px;
+        margin-left: -50px;
+        overflow: hidden;
+        object-fit: contain;
+    }
+    .our1 img {
+        width: 511px;
+        height: 435px;
+        margin-left: -49px;
+        object-fit: cover;
+        overflow: hidden;
+    }
+    .icon1 {
+        margin-left: 40px;
+    }
+    .our2 p {
+        font-size: 14px;
+        width: 100%;
+    }
+    .join_section img {
+        height: 349px;
+        margin-left: -59px;
+        width: 529px;
+        object-fit: contain;
+        overflow: hidden;
+    }
+    .px-5 {
+        padding-right: 0rem!important;
+        padding-left: 0rem!important;
+    }
+    .sec_a_tag img {
+        max-width: 488px;
+        margin-left: -18px;
+        overflow: hidden;
+        object-fit: contain;
+        margin-top: 10px;
+    }
+    .all_a a {
+        font-size: 9px;
+        margin-right: 18px;
+        margin-top: 46px;
+    }
+    .mdl_section p {
+        font-size: 9px;
+        color: #fff;
+        font-weight: 700;
+        margin-inline-end: auto;
+    }
+    .logo {
+     
+        margin-left: 18px;
+    }
+    .our2 {
+        padding-left: 17px;
+    }
+    .our2 h1 {
+        margin-top: 31px;
+        font-size: 42px;
+    }
+    .pata {
+        height: 136px;
+    }
+    
+  
+}
+
